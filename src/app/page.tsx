@@ -272,7 +272,7 @@ export default function Home() {
         </div>
         <div className="line w-full border-[1px] border-gray-300 rounded-full"></div>
       </section>
-      <section id="second" className=" w-full h-auto p-8 sm:pl-20 pl-32 flex flex-col gap-10 items-start">
+      <section id="second" className=" w-full h-auto p-8 pl-20 flex flex-col gap-10 items-start">
         <h1 className="sm:text-3xl text-2xl text-nowrap text-[#06306b] font-bold">Core Courses Sequence</h1>
         <div className="cards grid sm:grid-cols-2 grid-cols-1 lg:grid-cols-3 sm:gap-4 gap-10 text-gray-500 lg:mx-0">
           <div className="first animated-element cursor-pointer w-[300px] h-[300px] rounded-md shadow-md shadow-black bg-slate-100 flex flex-col items-center gap-6">
@@ -289,7 +289,7 @@ export default function Home() {
           </div>
         </div>
       </section>
-      <section id="last" className="w-full h-auto p-8 sm:pl-20 pl-32 flex flex-col gap-10 items-start">
+      <section id="last" className="w-full h-auto p-8 pl-20 flex flex-col gap-10 items-start">
       <h1 className="text-3xl text-[#06306b] font-bold">Advanced Courses</h1>
         <div className="cards grid sm:grid-cols-2 grid-cols-1 sm:gap-4 gap-10 lg:grid-cols-4 text-gray-500">
           <div className="first animated-element cursor-pointer  w-[300px] h-[300px] rounded-md shadow-md shadow-black bg-slate-100 flex flex-col items-center gap-6">
